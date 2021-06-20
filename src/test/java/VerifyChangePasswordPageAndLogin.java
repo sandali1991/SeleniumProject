@@ -8,6 +8,9 @@ import org.testng.annotations.Test;
 import pages.ChangePasswordPage;
 import pages.LoginPage;
 
+/**
+ * @author Sandali.Perera
+ */
 public class VerifyChangePasswordPageAndLogin
 {
   private PageObjectHelper pageObjectHelper;
